@@ -112,8 +112,7 @@
 <h2>Amit</h2>
 <img src="shuvo.jpg" alt="Profile Picture">
 <h1>THE IDEOLOGY</h1>
-<p>"My greatest strength is the love for my people,</p>
-<p>my greatest weakness is that I love them too much"</p>
+<p>"My greatest strength is the love for my people,<br>my greatest weakness is that I love them too much"</p>
 
 <!-- About Section -->
 <section>
